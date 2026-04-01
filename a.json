@@ -64,5 +64,3 @@
 "cache": "https://servers.sidestore.io/servers.json.hash"
 }
 
-JavaScript
-当前节点：$.servers[0].name
