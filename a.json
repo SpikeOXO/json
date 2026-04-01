@@ -55,6 +55,10 @@
 {
 "name": "crystall1nedev's server",
 "address": "https://anisette.crystall1ne.dev"
+},
+  {
+"name": "aserver",
+"address": "https://av3s.afni.eu.org:2096"
 }
 ],
 "cache": "https://servers.sidestore.io/servers.json.hash"
